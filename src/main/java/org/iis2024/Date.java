@@ -34,6 +34,9 @@ public class Date {
    *
    * @return The month of the year (1-12).
    */
+  public void Propietario (){
+    System.out.println("Añadido por el propietario");
+  }
   public int getMonth() {
     return month;
   }
